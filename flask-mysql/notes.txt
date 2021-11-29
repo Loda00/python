@@ -1,0 +1,8 @@
+python3 -m venv [name_project]
+source ./[file_venv]/bin/activate
+deactivate
+pipenv shell
+
+export [NAME_ENV] = [VALUE_ENV]
+       FLASK_ENV=development
+       FLASK_ENV=production

@@ -1,0 +1,4 @@
+python3 -m venv [name_project]
+source ./[file_venv]/bin/activate
+deactivate
+pipenv shell

@@ -1,0 +1,2 @@
+source ./init-flask/bin/activate
+deactivate

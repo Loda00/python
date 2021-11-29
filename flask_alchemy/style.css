@@ -1,0 +1,17 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.box {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.box > div {
+  width: 50%;
+  height: 200px;
+  background-color: red;
+  border: 1px solid gray;
+}
